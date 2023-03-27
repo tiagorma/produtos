@@ -9,7 +9,7 @@
 <body>
     <div class="container mt-5">
         
-        <h3 class="text-primary mt-3 mb-4 text-center"><b>UNIDADE 4 - ATIVIDADE 4</b></h1>
+        <h3 class="text-info mt-3 mb-4 text-center"><b>DESENVOLVIMENTO WEB FULL STACK - Projeto Full Stack :: UNIDADE 4 - ATIVIDADE 4</b></h1>
         
         @yield('content')
         
